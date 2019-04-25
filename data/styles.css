@@ -66,6 +66,8 @@
 }
 .menu_item {
 }
+.snapshot {
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -145,6 +147,9 @@
 .checkbox {
   text-align:left;
 }
+.radio_button {
+  text-align:left;
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -157,4 +162,7 @@
 .label1 {
   font-size:14px;
   text-align:left;
+}
+._形状1 {
+  font-size:11px;
 }
